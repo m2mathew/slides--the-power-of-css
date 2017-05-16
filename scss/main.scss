@@ -411,11 +411,6 @@ footer {
 //   }
 // }
 
-.blue-bg{fill:#5AD4FF;}
-.yellow-bg{fill:#FFFF00;}
-.pink-bg{fill:#FF00F3;}
-// }
-
 .blue-bg,
 .yellow-bg,
 .pink-bg{
@@ -434,14 +429,6 @@ footer {
 @keyframes rotate{
   0% {transform: rotate(0deg);}
   100% {transform: rotate(360deg)}
-}
-
-.live-code-area {
-  display: flex;
-
-  > div {
-    flex: 1;
-  }
 }
 
 .cp_embed_wrapper {
